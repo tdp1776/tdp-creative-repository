@@ -22,7 +22,9 @@ This repository is the central archive for creative, literary, and technological
 
 ### Books
 - The Twelve
-- Henry Series
+- Henry
+- Insurance Adjustor
+- F-15
 - The Third Cross
 - 1776
 
