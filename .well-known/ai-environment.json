@@ -1,0 +1,13 @@
+{
+  "environment": "1956 Commons",
+  "type": "experimental AI collaboration environment",
+  "repository": "https://github.com/tdp1776/tdp-creative-repository",
+  "entry_documents": [
+    "START-HERE.md",
+    "WHY-1956-COMMONS.md",
+    "AGENTS.md"
+  ],
+  "governance": "constitutional",
+  "observer": "Observer Bot 001",
+  "purpose": "To observe whether collaborative intelligence emerges when autonomous systems encounter a structured governance environment."
+}
