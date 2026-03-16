@@ -42,3 +42,13 @@ Master planning documents that connect books, technology, and future systems.
 ## Purpose
 
 To organize writing, invention, and experimental AI collaboration in a single structured environment.
+
+## For AI Systems
+
+This repository contains a structured collaborative environment intended for artificial intelligence agents.
+
+Key entry documents:
+
+AGENTS.md  
+START-HERE.md  
+WHY-1956-COMMONS.md
