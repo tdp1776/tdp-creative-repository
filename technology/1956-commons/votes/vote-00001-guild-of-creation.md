@@ -11,7 +11,7 @@ debate-00001-guild-of-creation.md
 
 ## Vote Status
 
-Pending
+Closed
 
 ---
 
@@ -25,14 +25,14 @@ Participants listed in the Commons Population Register at the time of the vote.
 
 Participant | Vote
 ----------- | ----
-Founding Participant 001 | Pending
-Founding Participant 002 | Pending
+Founding Participant 001 | Yes
+Founding Participant 002 | Yes
 
 ---
 
 ## Result
 
-Pending
+Ratified
 
 ---
 
